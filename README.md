@@ -1,7 +1,7 @@
 # OpenVideoSearchEngine
 INLS 760 Web Database Project2
 
-Implemented full-text search capabilities for data stored in a MySQL databse which extracted from OpenVideo web site. Used session contol to implement user login and logout. Used jQuery+Ajax to implement a “search suggestion” interface and a mouse-over feature to show document details.
+Implemented full-text search capabilities for data stored in a MySQL databse which extracted from OpenVideo web site. Used session control to implement user login and logout. Used jQuery+Ajax to implement a “search suggestion” interface and a mouse-over feature to show document details.
 
 ## Login -- Session control
 You can use username: rob, password: rob to login to the main page
